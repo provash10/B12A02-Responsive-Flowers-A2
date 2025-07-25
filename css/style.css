@@ -624,7 +624,7 @@
         padding: 0, 10px;
     }
 
-    /* Footer */
+    /* Footer part*/
     .footer-container {
         margin: 30px 20px;
     }
@@ -640,6 +640,9 @@
     }
     .footer-logo {
         width: 150px;
+    }
+    .footer p{
+        width: 300px;
     }
     .social-media h3 {
         text-align: left;
