@@ -495,6 +495,7 @@
     /* Flowers & Plants Lover */
     .flowers-plants-part {
         flex-direction: column;
+        padding-bottom: 10px;
         gap: 30px;
     }
     .flowers-plants-img, .flowers-plants-content {
