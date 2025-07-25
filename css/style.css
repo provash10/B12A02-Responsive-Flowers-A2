@@ -238,10 +238,12 @@
 .deals-left-1{
      background-image: url(../assets/deal-bloom.png);
     background-repeat: no-repeat;
+    border-radius: 25px;
 }
 .deals-left-2 {
     background-image: url(../assets/deal-ana.png);
     background-repeat: no-repeat;
+    border-radius: 25px;
 }
 
 .deals-right{
@@ -531,7 +533,7 @@
 }
 .deals-image {
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
     gap: -10px;
 }
 .deals-left {
@@ -548,6 +550,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    border-radius: 30px;
 }
 .deals-right {
     width: 100%;
